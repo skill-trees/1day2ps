@@ -7,5 +7,5 @@
 /dataSources/
 /dataSources.local.xml
 
-.idea
-1day2ps.iml
+../.idea
+../1day2ps.iml

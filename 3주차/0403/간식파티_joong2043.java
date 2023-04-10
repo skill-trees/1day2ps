@@ -11,10 +11,6 @@ public class Main{
 
         int num = Integer.parseInt(br.readLine());
 
-        // 전투력이 높은 병사를 내림차순
-        // 15 11 4 8 5 2 4
-        // 1  2  3 3 4 5 5
-
         int[] arr = new int[num];
         int[] dp = new int[num];
 
